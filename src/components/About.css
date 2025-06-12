@@ -1,0 +1,28 @@
+.about-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+}
+.about-container h2 {
+  color: #2c3e50;
+  margin-bottom: 16px;
+}
+.about-container h3 {
+  color: #0078d4;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+.about-container ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+.about-container li {
+  margin-bottom: 8px;
+}
+.about-container p {
+  color: #444;
+  line-height: 1.7;
+}
