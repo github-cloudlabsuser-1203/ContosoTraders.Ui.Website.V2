@@ -1,10 +1,11 @@
 import "./App.css";
 import WelcomePopup from "./components/WelcomePopup";
+import About from "./components/About";
 
 function App() {
   return (
     <>
-      <WelcomePopup />
+      <About />
       <header className="App-header">
         <div className="container">
           <h1 className="text-center mt-5 pb-4">
